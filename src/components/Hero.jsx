@@ -15,7 +15,7 @@ export default function Hero(){
                     </div>
                     <div className="flex justify-center md:justify-start mt-4 ml-4 md:ml-52 ">
                         {/* button */}
-                        <a href="https://ask-obi-90c3b991758d.herokuapp.com" target="_blank" rel="noopener noreferrer" className="bg-black border-2 border-[#222222] text-white font-semibold py-2 px-8 rounded-full">
+                        <a href="https://askobi-a419d6572051.herokuapp.com" target="_blank" rel="noopener noreferrer" className="bg-black border-2 border-[#222222] text-white font-semibold py-2 px-8 rounded-full">
                             Chat Now!
                         </a>
                     </div>

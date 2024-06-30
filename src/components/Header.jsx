@@ -16,7 +16,7 @@ const navigationButtons = [
 export default function Header(){
 
     const handleLetsTalkClick = () => {
-        window.location.href = "https://ask-obi-90c3b991758d.herokuapp.com";
+        window.location.href = "https://askobi-a419d6572051.herokuapp.com";
     };
 
     return (

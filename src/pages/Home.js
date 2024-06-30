@@ -21,10 +21,10 @@ function Home({ scrollToTestimonials }) {
     <div>
       <Hero />
       <Services />
+      <Testimonials />
       <div ref={testimonialsRef}>
-        <Testimonials />
-      </div>
       <Footer />
+      </div>
     </div>
   );
 }

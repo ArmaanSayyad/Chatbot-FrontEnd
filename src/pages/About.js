@@ -14,8 +14,7 @@ export default function About() {
                     <div className="text-center">
                         <h2 className="text-xl font-semibold mb-2">Aayaan Sayyad</h2>
                         <p className="text-lg">
-                        Aayaan Sayyad is an avid explorer when it comes to trying new things. Studying at GreenWood High School, Aayaan has indulged in different tasks from sports to internships aiding disabled people as well as startups.  Aayaan drives to put his best foot forward when attempting a task and continues to partake in a multitude of tasks with a fresh approach.
-                        </p>
+                        Aayaan is a dedicated student who thrives on coding challenges and excels in academics. With a natural talent for programming languages and a knack for problem-solving, Aayaan approaches every project with creativity and precision. Whether it's diving into complex coding tasks or mastering challenging academic material, Aayaan is driven by a passion for learning and a commitment to pushing boundaries.                        </p>
                     </div>
                 </div>
 

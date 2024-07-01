@@ -14,7 +14,7 @@ export default function About() {
                     <div className="text-center">
                         <h2 className="text-xl font-semibold mb-2">Aayaan Sayyad</h2>
                         <p className="text-lg">
-                        Armaan Sayyad is a dedicated Data Science student at Purdue University and has successfully led and executed diverse projects in AI/ML and data analytics. Armaan has experience contributing to innovative solutions like AI-powered document analyzers and video analysis applications. Passionate about leveraging technology to create meaningful impact, Armaan aims to continue driving technological advancements and making a difference through innovative solutions.
+                        Aayaan Sayyad is an avid explorer when it comes to trying new things. Studying at GreenWood High School, Aayaan has indulged in different tasks from sports to internships aiding disabled people as well as startups.  Aayaan drives to put his best foot forward when attempting a task and continues to partake in a multitude of tasks with a fresh approach.
                         </p>
                     </div>
                 </div>

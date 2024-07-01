@@ -23,7 +23,6 @@ function Home({ scrollToTestimonials }) {
       <Services />
       <Testimonials />
       <div ref={testimonialsRef}>
-      <Footer />
       </div>
     </div>
   );

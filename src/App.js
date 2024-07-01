@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Portfolios from './components/Portfolios';
 import About from './pages/About'; // Adjust the path if necessary
 import Home from './pages/Home';
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/portfolios" element={<Portfolios />} />
           <Route path="/about" element={<About />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );

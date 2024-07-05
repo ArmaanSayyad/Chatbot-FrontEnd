@@ -21,9 +21,7 @@ function Home({ scrollToTestimonials }) {
     <div>
       <Hero />
       <Services />
-      <Testimonials />
-      <div ref={testimonialsRef}>
-      </div>
+      
     </div>
   );
 }

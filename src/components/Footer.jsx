@@ -12,12 +12,12 @@ export default function Footer() {
       icon: <FaLinkedin color="#222222" />,
       text: "LinkedIn",
       link: "https://linkedin.com/in/example"
-    },
+    }/* ,
     {
       icon: <FaPhone color="#222222" />,
       text: "+1234567890",
       link: "tel:+1234567890"
-    }
+    } */
   ];
 
   return (
@@ -28,9 +28,8 @@ export default function Footer() {
           <a
             key={idx}
             href={social.link}
-            className="flex items-center gap-2 text-white"
+            className="flex items-center gap-2 text-white "
             target="_blank"
-            rel="noopener noreferrer"
           >
             <span className="bg-white text-xl p-2 rounded-full">{social.icon}</span>
             <span>{social.text}</span>
